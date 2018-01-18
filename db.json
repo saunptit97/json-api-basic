@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "account": "nts1997z",
+      "pass": "S0977695448"
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung note 7",
+      "price": 3200,
+      "status": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Oppo F1s",
+      "price": 2800,
+      "status": true
+    },
+    {
+      "name": "LG  G7",
+      "price": "2000",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "Sony Z7",
+      "price": "2300",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "Oppo F1s",
+      "price": 2800,
+      "status": true,
+      "id": 6
+    }
+  ]
+}
